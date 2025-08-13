@@ -1,2 +1,2 @@
-# 1st-repo-
+# 1st-repo
 Trying to figure out Git Hub
