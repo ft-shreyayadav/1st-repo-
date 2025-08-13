@@ -1,2 +1,3 @@
 # 1st-repo
-Trying to figure out Git Hub
+Hello ! I'm Shreya Yadav 
+I'm trying to figure out Git Hub
